@@ -1,0 +1,4 @@
+├── assets/             # Imagens, diagramas ou o logo do projeto
+├── documentos/         # Versão em PDF do Plano de Aula e Atividade
+├── scripts/            # (Opcional) Exemplos de prompts ou códigos de teste
+└── README.md           # A apresentação principal do seu projeto
