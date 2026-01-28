@@ -52,4 +52,4 @@ Este projeto promove o uso ético da IA. Todos os materiais gerados por ferramen
 3.  Sinta-se à vontade para contribuir com novos prompts de desafios filosóficos!
 
 ---
-Desenvolvido por [Seu Nome] durante o Bootcamp Santander Educa IA - 2026.
+Desenvolvido por Herton Dutra Andrade durante o Bootcamp Santander Educa IA - 2026.
